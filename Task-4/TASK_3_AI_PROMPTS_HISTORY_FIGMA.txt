@@ -1,0 +1,13 @@
+
+URL: https://luxury-lokum-09dec5.netlify.app/
+
+Based on the live URL, create a Figma design or prototype for your Order
+Tracking solution. If you submit one, it should show all three states:
+
+Delayed Order
+
+Delivered but Not Received
+
+Tracking Not Available Yet
+
+### I have used here FIGMA AGENT(AI)
