@@ -1,8 +1,11 @@
 # Order Tracking Mobile Experience — Task 1
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat&logo=netlify)](https://luxury-lokum-09dec5.netlify.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
+
+> 🚀 **Live Demo URL**: [https://luxury-lokum-09dec5.netlify.app/](https://luxury-lokum-09dec5.netlify.app/)
 
 A production-quality, accessible mobile Order Tracking experience designed for modern e-commerce using **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**.
 
@@ -119,11 +122,13 @@ src/
 
 ---
 
-## Verification Commands
+## Verification & Deployment
 
-| Command | Purpose | Expected Result |
+| Command / Resource | Purpose | Expected Result |
 |---|---|---|
 | `npm run typecheck` | Validates TypeScript types | `0 errors` |
 | `npm run lint` | Checks Next.js & ESLint rules | `✔ No ESLint warnings or errors` |
 | `npm run build` | Compiles production assets | `✓ Compiled successfully (4/4 static pages)` |
 | `npm start` | Runs production server | Accessible at `http://localhost:3000` |
+| **Live Demo** | Production Netlify Deployment | [https://luxury-lokum-09dec5.netlify.app/](https://luxury-lokum-09dec5.netlify.app/) |
+
